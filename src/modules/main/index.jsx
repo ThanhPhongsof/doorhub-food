@@ -1,0 +1,9 @@
+export const { default: Illustration } = require("./Illustration");
+export const { default: Howitwork } = require("./Howitwork");
+export const { default: Catagory } = require("./Catagory");
+export const { default: Features } = require("./Features");
+export const { default: About } = require("./About");
+export const { default: CTA } = require("./CTA");
+export const { default: Testimonials } = require("./Testimonials");
+export const { default: OurBlog } = require("./OurBlog");
+export const { default: Subscription } = require("./Subscription");
