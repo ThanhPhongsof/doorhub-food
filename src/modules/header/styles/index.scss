@@ -1,4 +1,10 @@
-header {
-  background-color: var(--header-bg);
-  height: 890px;
+.header {
+  height: 100px;
+  margin-bottom: 60px;
+  &-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 25px 0;
+  }
 }
